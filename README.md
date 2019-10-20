@@ -1,27 +1,7 @@
-# Express Authentication
+Hi there. Here begins the project two journey for the Software Engineering Immersive course from General Assembly in Seattle, WA.
 
-Express authentication template using Passport + flash messages + custom middleware
+My goal is to develop a care network messaging app. The premise is that a perspective user might need therapist advice, so they come to my site to find the therapists near them. Then message them.
 
-## Getting Started
+I'll use node.js and express, seqauelize, and postgres to accomplish this goal.  Users have the ability to sign up and log in to their message center and update the existing messages if desired or create new ones.
 
-#### Scaffold w/tests (see `master` branch)
-
-* Run `npm install` to install dependencies
-  * Use `npm run lint:js` to lint your JS
-  * Use `npm run lint:css` to lint your CSS
-  * Use `npm test` to run tests
-* Setup the databases
-  * Change the database names in `config/config.json` to reflect your project
-  * Run `createdb project_name_development` to create the development database
-  * Run `createdb project_name_test` to create the test database
-
-#### Finished version (see `brian-finished` branch)
-
-* Run `npm install` to install dependencies
-  * Use `npm run lint:js` to lint your JS
-  * Use `npm run lint:css` to lint your CSS
-  * Use `npm test` to run tests
-* Setup the databases
-  * Run `createdb express_auth_development` to create the development database
-  * Run `createdb express_auth_test` to create the test database
-  * Run `sequelize db:migrate` to run migrations
+This is a heartfelt goal. I'd like to produce something of value that could have a positive impact.  The project is due Friday, Oct 25th. I'll check in everyday to post results from the previous day's work.  There is much to do. First, initialize npm items in my terminal and get a baseline template working.
